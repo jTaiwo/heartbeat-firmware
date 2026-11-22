@@ -1,6 +1,6 @@
 {
-  "version": "2.10",
-  "url": "https://raw.githubusercontent.com/jTaiwo/heartbeat-firmware/main/hb_v2_10.bin",
-  "sha256": "6c66e7c5bc9b6b059c494b210950a25cbfa7a3c096086052ef8f9dc35f82c72e",
-  "size": 1253056
+  "version": "2.12",
+  "url": "https://raw.githubusercontent.com/jTaiwo/heartbeat-firmware/main/hb_v2_12.bin",
+  "sha256": "c9a0a8bc8bba3cf7b209cb64ec2f9af5e0527779e5bd6fbd527f87001570aea2",
+  "size": 1273456
 }
